@@ -1,2 +1,2 @@
 # racing-car
-Game SDL
+Game SDL C++
